@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 0.4
 Name:		texlive-guitarchordschemes
-Version:	0.4
-Release:	9
+Version:	0.7
+Release:	1
 Summary:	Guitar Chord and Scale Tablatures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/guitarchordschemes
