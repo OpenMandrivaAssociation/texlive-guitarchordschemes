@@ -1,6 +1,6 @@
 Name:		texlive-guitarchordschemes
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Guitar Chord and Scale Tablatures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/guitarchordschemes
